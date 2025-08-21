@@ -4,7 +4,9 @@
 <p>Perkenalkan nama saya <b>Muhammad Farid Bayu Hadi</b> Biasa di panggil dengan <b>Farid</b>.</p>
 <p>Saya Sekarang seorang <b>Mahasiswa</b> di Universitas Ahmad Dahlan Yogjakarta.</p>
 <p>Saya Berminat di bagian web development.</p>
-
+<br>
+<hr>
+<br>
 <p>Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun</p>
 <p align="center">
 	<a href="https://github.com/FaridBayu"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
