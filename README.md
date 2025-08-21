@@ -1,11 +1,15 @@
-# Halo semua! 
 
-Perkenalkan nama saya **Muhammad Farid Bayu Hadi** Biasa di panggil dengan **Farid**.<br>
+<h1>Halo semua!</h1>
 
-Saya Sekarang seorang **Mahasiswa** di Universitas Ahmad Dahlan Jogjakrta.<br>
+<p>Perkenalkan nama saya <b>Muhammad Farid Bayu Hadi</b> Biasa di panggil dengan <b>Farid</b>.</p>
+<p>Saya Sekarang seorang <b>Mahasiswa</b> di Universitas Ahmad Dahlan Yogjakarta.</p>
+<p>Saya Berminat di bagian web development.</p>
 
-Saya Berminta di bagian web development.<br>
+<p>Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun</p>
+<p align="center">
+	<a href="https://github.com/FaridBayu"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/muhammad-farid-bayu-hadi-28620837b"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://youtube.com/@miwtubech?si=A65mYMRuABuG6cAg"><img alt="youtube" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/youtube.png"/></a>
+</p>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun <br> 
-[Linkedin](www.linkedin.com/in/muhammad-farid-bayu-hadi-28620837b) dan
-[Youtobe](https://youtube.com/@miwtubech?si=A65mYMRuABuG6cAg) ku ya.
+
