@@ -2,7 +2,7 @@
 <h1>Halo semua!</h1>
 
 <p>Perkenalkan nama saya <b>Muhammad Farid Bayu Hadi</b> Biasa di panggil dengan <b>Farid</b>.</p>
-<p>Saya Sekarang seorang <b>Mahasiswa</b> di Universitas Ahmad Dahlan Yogjakarta.</p>
+<p>Saya Sekarang seorang <b>Mahasiswa Sistem Informasi</b> di Universitas Ahmad Dahlan Yogjakarta.</p>
 <p>Saya Berminat di bagian web development.</p>
 <br>
 <hr>
